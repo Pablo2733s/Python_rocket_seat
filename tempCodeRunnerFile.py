@@ -1,0 +1,1 @@
+            tarefas.remove(tarefa)
