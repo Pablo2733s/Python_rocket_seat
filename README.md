@@ -22,7 +22,7 @@ Este é um gerenciador de tarefas simples implementado em Python. O programa per
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Pablo2733s/Python_rocket_seat.git
+   [git clone https://github.com/Pablo2733s/Python_rocket_seat.git](https://github.com/Pablo2733s/Python_rocket_seat.git)
 Navegue até o diretório do projeto:
 
 bash
@@ -99,9 +99,6 @@ Sinta-se à vontade para fazer um fork deste projeto, enviar pull requests ou ab
 
 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
-
-markdown
-Copiar código
 
 ### Explicação do README:
 
